@@ -1,0 +1,97 @@
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/drawable/indicator_corner_bg.xml" value="0.1945" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/activity_cartlist.xml" value="0.3740079365079365" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/activity_main.xml" value="0.3740079365079365" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/activity_notification.xml" value="0.49" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/activity_order.xml" value="0.49" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/activity_productdetail.xml" value="0.49" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/activity_productlist.xml" value="0.49" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/activity_review.xml" value="0.49" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/add_adress.xml" value="0.49" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/adress.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/cart_list.xml" value="0.49" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/list.xml" value="0.3740079365079365" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/list_notification.xml" value="0.49" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/list_order.xml" value="0.49" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/nav_header_home_page.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/progress.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/sifremiunuttum.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/signin.xml" value="0.3740079365079365" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/signup.xml" value="0.49" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/toolbarproductdetail.xml" value="0.3740079365079365" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/toolbarproductlist.xml" value="0.3740079365079365" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw320dp/toolbarreview.xml" value="0.3740079365079365" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/activity_cartlist.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/activity_productdetail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/activity_productlist.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/activity_review.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/activity_sdlv.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/cart_list.xml" value="0.3663751214771623" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/item_custom_btn.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/list_adress_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/list_notification.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/list_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/signin.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/signup.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/toolbarproductdetail.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/toolbarproductlist.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout-sw360dp/toolbarreview.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/activity_cartlist.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/activity_categories.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/activity_find_store.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/activity_main.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/activity_notification.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/activity_order.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/activity_productdetail.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/activity_productlist.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/activity_review.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/activity_splash.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/add_adress.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/add_cart_favlist.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/add_comment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/cart_list.xml" value="0.6631799163179917" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/fragment.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/grid_productlist.xml" value="0.6631799163179917" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/help_page.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/indicator_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/list.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/list_adress_page.xml" value="0.6631799163179917" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/list_notification.xml" value="0.6631799163179917" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/list_order.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/list_review.xml" value="0.6631799163179917" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/listview_productlist.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/maincategory_listitem.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/navigationdrawer.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/order_page.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/order_page_grid_item.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/render_type_default.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/render_type_text.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/signin.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/signup.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/siralaitemlayout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/slider_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/subcategories_listview_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/toolbar.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/toolbar_help_page.xml" value="0.17074275362318841" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/toolbarproductdetail.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/toolbarproductlist.xml" value="0.39435146443514646" />
+        <entry key="..\:/Android Workspace/shoearstore-master/ShineShuStore/app/src/main/res/layout/toolbarreview.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

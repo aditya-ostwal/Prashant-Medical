@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <string-array name="siralaitemproduct">-->
+<!--        <item>SIRALA</item>-->
+<!--        <item>Çok Satanlar</item>-->
+<!--        <item>Fiyata Göre Azalan</item>-->
+<!--        <item>Fiyata Göre Artan</item>-->
+<!--        <item>En Yeniler</item>-->
+<!--        <item>Yorum Sayısı</item>-->
+<!--    </string-array>-->
+    <string-array name="siralaitemproduct">
+        <item>SORT</item>
+        <item>Best Sellers</item>
+        <item>Price Descending</item>
+        <item>Ascending by Price</item>
+        <item>Most Recent</item>
+        <item>Number of Comments</item>
+    </string-array>
+    <string-array name="siraliitemcomment">
+        <item>SORT</item>
+        <item>By Rating</item>
+        <item>By Date</item>
+    </string-array>
+
+    <string-array name="ulkeler">
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Amerika</item>
+    </string-array>
+    <string-array name="iller">
+        <item>Maharashtra</item>
+        <item>Gujrat</item>
+        <item>Goa</item>
+        <item>Madhypradesh</item>
+    </string-array>
+</resources>

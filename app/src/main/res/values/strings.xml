@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Prashant Medical</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="signup"><b><u>Register</u></b></string>
+    <string name="signin"><u><b>Sign In</b></u></string>
+    <string name="tandc"><u>User Agreement </u></string>
+    <string name="title_activity_find_store">Prashant Medical</string>
+    <string name="welcometext">WELCOME \n%1$s</string>
+    <string name="cameraMessage">Please bring the camera closer to the QR Code...</string>
+    <string name="giristext">Login or Register</string>
+    <string name="adresstext"><b>%You have 1% $s %2$s address. </b> You can create a new address from this page, available</string>
+    <string name="adressaddtext"><center>[+]\n\nAdd new %1$s Address</center></string>
+    <string name="adressAdd"><center>%1$s Address</center></string>
+    <string name="favNotMemberText">Please Login!!!</string>
+    <string name="favNotItemText">No Items in Your Favorite List!!!</string>
+    <string name="openAdressText">Enter your Landmark, street</string>
+    <string name="adressNameText">Enter an full Address</string>
+    <string name="postCodeText">Zip Code</string>
+    <string name="commentText">Write your comment...</string>
+    <string name="commentRule"><b> > </b>Your comment is published after being checked by our relevant editors before they are published.\n
+                               <b> > </b>Your comment will be published within 7 business days.\n
+                               <b> > </b>If your comments contain insults, profanity or bad words, your comment will not be published.</string>
+</resources>
