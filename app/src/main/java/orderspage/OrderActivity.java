@@ -40,7 +40,7 @@ public class OrderActivity extends AppCompatActivity {
 
         androidx.appcompat.widget.Toolbar  toolbar=( androidx.appcompat.widget.Toolbar) findViewById(R.id.toolbar);
         TextView title=(TextView) toolbar.findViewById(R.id.eshop);
-        title.setText("Shine Store");
+        title.setText("Prashant Medical");
         ImageView backButton=(ImageView) toolbar.findViewById(R.id.backImage);
         backButton.setOnClickListener(new View.OnClickListener() {
             @Override
